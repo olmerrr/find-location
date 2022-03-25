@@ -1,0 +1,19 @@
+{
+  "name": "find-location",
+  "version": "1.0.0",
+  "description": "app to find your location using your IP",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html --out-dir=build"
+  },
+  "keywords": [
+    "IP",
+    "location"
+  ],
+  "author": "Yaroslav",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
