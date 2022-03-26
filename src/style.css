@@ -132,6 +132,7 @@
     font-size: 2rem;
   }
   .map {
+    border-radius: 4px;
     min-height: calc(100vh - 200px);
   }
   
