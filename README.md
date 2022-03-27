@@ -1,3 +1,3 @@
 # find-location
 
-This app helps you find your location using your IP address/domain
+This app helps you find your location using your IP address

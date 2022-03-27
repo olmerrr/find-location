@@ -48,6 +48,13 @@
     -ms-border-radius: 10px 0 0 10px;
     -o-border-radius: 10px 0 0 10px;
 }
+@media (max-width: 1024px) {
+  .search-bar__input,
+  .info__block-title {
+    font-size: 1.5rem;
+  }
+}
+
   .search-bar__btn {
     background-color: black;
     border: none;
